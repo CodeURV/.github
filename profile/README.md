@@ -1,5 +1,5 @@
 # 💫 Sobre Nosotros:
-👨‍💻Asociación de programación de la Universidad Rovira i Virgili👩‍💻<br>🔍Desarrollo Web<br>🔏Ciberseguridad<br>🤖Inteligencia Artificial<br>¡Y mucho más!
+👨‍💻Asociación de programación de la Universidad Rovira i Virgili👩‍💻<br><br>🔍Desarrollo Web<br>🔏Ciberseguridad<br>🤖Inteligencia Artificial<br>¡Y mucho más!
 
 
 ## 🌐 Contáctanos:
